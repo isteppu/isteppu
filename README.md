@@ -35,9 +35,9 @@ I am a passionate Front-End Developer based in Philippines, with a knack for tur
 ## 📊 GitHub Stats:
 <div align=center>
   
-![](https://github-readme-stats.vercel.app/api?username=Stef1202&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Stef1202&theme=one_dark_pro&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stef1202&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=isteppu&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=isteppu&theme=one_dark_pro&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=isteppu&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
