@@ -53,5 +53,5 @@ I am a passionate Front-End Developer based in Philippines, with a knack for tur
 ## 📈 Contribution
 
 <div align=center>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Stef1202/Stef1202/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/isteppu/isteppu/output/github-contribution-grid-snake.svg" />
 </div>
