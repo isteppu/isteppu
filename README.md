@@ -52,4 +52,4 @@ I am a passionate Front-End Developer based in Philippines, with a knack for tur
 
 ## 📈 Contribution
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/isteppu/isteppu/blob/output/github-contribution-grid-snake2.svg)
